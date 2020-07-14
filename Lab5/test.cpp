@@ -1,0 +1,5 @@
+#include "MathVector.h"
+
+int main(){
+    return 0;
+}
